@@ -1,0 +1,32 @@
+{
+  "red": {
+    "count": 1,
+    "emoji": "🟥",
+    "side": ""
+  },
+  "green": {
+    "count": 1,
+    "emoji": "🟩",
+    "side": ""
+  },
+  "blue": {
+    "count": 1,
+    "emoji": "🟦",
+    "side": ""
+  },
+  "yellow": {
+    "count": 1,
+    "emoji": "🟨",
+    "side": ""
+  },
+  "white": {
+    "count": 1,
+    "emoji": "⬜️",
+    "side": ""
+  },
+  "orange": {
+    "count": 1,
+    "emoji": "🟧",
+    "side": ""
+  }
+}
